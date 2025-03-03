@@ -17,11 +17,6 @@ Este proyecto es una aplicación desarrollada en C++ que permite a los usuarios 
 - 🖥️ **Lenguaje de programación**: C++
 - 📂 **Manejo de archivos** para persistencia de datos
 
-## **Instrucciones de Uso**
-1. **Compilar** el código fuente utilizando un compilador de C++ (ejemplo: `g++ main.cpp -o simulacion`).
-2. **Ejecutar** el programa (`./simulacion` en sistemas Unix o `simulacion.exe` en Windows).
-3. **Seguir** las instrucciones en pantalla para registrarse, iniciar sesión y explorar las funcionalidades.
-
 ## **Autores**
 Proyecto desarrollado como parte de un trabajo práctico grupal por:
 - 👤 **Quijada Franco**
