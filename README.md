@@ -22,15 +22,6 @@ Este proyecto es una aplicación desarrollada en C++ que permite a los usuarios 
 2. **Ejecutar** el programa (`./simulacion` en sistemas Unix o `simulacion.exe` en Windows).
 3. **Seguir** las instrucciones en pantalla para registrarse, iniciar sesión y explorar las funcionalidades.
 
-## **Estructura del Proyecto**
-```
-📂 Proyecto/
- ├── 📂 src/        # Archivos fuente en C++
- ├── 📂 include/    # Archivos de cabecera
- ├── 📂 data/       # Archivos de almacenamiento de usuarios y datos de la simulación
- └── 📄 README.md   # Documentación del proyecto
-```
-
 ## **Autores**
 Proyecto desarrollado como parte de un trabajo práctico grupal por:
 - 👤 **Quijada Franco**
